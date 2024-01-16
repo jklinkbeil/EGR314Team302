@@ -1,2 +1,2 @@
 # EGR314Team302
-ASU EGR314 Team 302 Project
+ASU EGR314 Spring 2024 Team 302 Project
